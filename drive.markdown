@@ -38,12 +38,11 @@ below. Spend the last five minutes on the final question.
 Why? What are they able to do that other's won't or can't?
 2. Describe your most successful team experience from the past three years. What
 made it click? Were there any obstacles overcome? Why did it end?
-3. What would be your first impressions / thoughts / fears if you were in a group
-together? If you have three people (A, B, C), have Person A describe Person B,
+3. Imagine your discussion group suddenly becomes a project team. What would be your first impressions / thoughts / fears about each other? If you have three people (A, B, C), have Person A describe Person B,
 B describe C, and C describe A.
 4. What have been your worst collaborative experiences so far at Turing? Why?
 Was motivation an issue? Fear? Communication? What could have been done
-differently?
+differently? If motivation, what would lead to someone losing motivation?
 5. What actions or patterns have led to your most successful collaborations here?
 Are those replicable? Dive deeper than just saying you "clicked." Why did you
 click? What made your gaps fit their weaknesses, and vice versa?
