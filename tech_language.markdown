@@ -15,38 +15,38 @@ judgements, and microaggressions. Imagine it's like The Internet -- no accountab
 
 ## Dialogs
 
-### The Pair
+### A: The Pair
 
 Persons A and B are about to start a two-week-long pair programming assignment.
 B is a bit nervous, but A is confident. The pair needs to have a "DTR"-type
 conversation to get their work started.
 
-### The Conference
+### B: The Conference
 
 Persons A and B are awkwardly standing near each other at a programming conference
 happy hour. There are no existing conversations nearby that they can latch on to,
 so they'll have to talk to each other.
 
-### The Interview
+### C: The Interview
 
 Person A is interviewing for a software development job at Person B's company.
 Person A is new to the industry and eager to prove themselves. Person B' has been
 programming for 20 years and is skeptical of newcomers.
 
-### The Recruiter
+### D: The Recruiter
 
 Person A is a technical recruiter tasked with finding great people for their
 clients. Person B is a programmer not sure if they should be hunting for a new
 job. They're curious but not "job hunting," per se.
 
-### The "That Guy"
+### E: The "That Guy"
 
 Every conference or user group talk seems to have "that guy." Person A is trying
 to deliver an informative, appropriate conference talk. Person B, in the audience,
 is mostly interested in asking questions / raising objections that highlight
 just how smart Person B is.
 
-### The Significant Other
+### F: The Significant Other
 
 Once in awhile we have to talk to "the normals" out there in the world. Person A,
 a lovely programming student, is attempting to talk with Person B whose
