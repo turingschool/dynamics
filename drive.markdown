@@ -46,6 +46,6 @@ differently? If motivation, what would lead to someone losing motivation?
 5. What actions or patterns have led to your most successful collaborations here?
 Are those replicable? Dive deeper than just saying you "clicked." Why did you
 click? What made your gaps fit their weaknesses, and vice versa?
-6. Imagine three three of you are the policy setters for all student work. What
+6. Imagine that the three of you are the policy setters for all student work. What
 are the five most important rules for successful (IE motivated, focused, productive)
 teams?
