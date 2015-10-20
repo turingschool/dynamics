@@ -12,7 +12,7 @@ Why don't we have sayings like:
 
 That's weird. Maybe we should adopt a new principle:
 
-* "Take and existing good idea and make a just-tiny-enough change to get VC funding."
+* "Take an existing good idea and make a just-tiny-enough change to get VC funding."
 
 Let's practice!
 
