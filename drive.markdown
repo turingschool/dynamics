@@ -35,7 +35,7 @@ For our last section let's get together in groups of three and discuss the quest
 below. Spend the last five minutes on the final question.
 
 1. Who is someone from your cohort who stands out for their motivation and focus?
-Why? What are they able to do that other's won't or can't?
+Why? What are they able to do that others won't or can't?
 2. Describe your most successful team experience from the past three years. What
 made it click? Were there any obstacles overcome? Why did it end?
 3. Imagine your discussion group suddenly becomes a project team. What would be your first impressions / thoughts / fears about each other? If you have three people (A, B, C), have Person A describe Person B,
